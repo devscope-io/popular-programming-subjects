@@ -44,3 +44,8 @@
 *   [Scala](https://devscope.io/subject/scala " Scala")
 *   [Rust](https://devscope.io/subject/rust " Rust")
 *   [Erlang](https://devscope.io/subject/erlang " Erlang")
+
+
+![github visit counter](https://devscope.io/github-counter/devscope-io/popular-programming-subjects.svg)
+
+
